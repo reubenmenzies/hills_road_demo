@@ -4,7 +4,8 @@ namespace Heloo
     {
         static void main()
         {
-            Console.Writeline("hello")
+            Console.WriteLine("hello there")
+            Console.WriteLine("hi")
         }
     }
 }
